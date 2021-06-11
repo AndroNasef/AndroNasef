@@ -1,14 +1,15 @@
+Welcome file
+Welcome file
 
 
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> <img align="center" src="https://komarev.com/ghpvc/?username=andronasef&label=Profile%20views&color=0e75b6&style=flat" alt="andronasef" /> </h1>
-<p align='center'>
-
-
-</p>
-<div size='20px'> Hi! My name is Andrew Nasef. Thank You for taking the time to view my GitHub Profile :smile: 
+<p align='center'></p>
+<div > Hi! My name is Andrew Nasef. Thank You for taking the time to view my GitHub Profile :smile: 
+</div><br>
+<div >
+ - 👨‍💻 All of my projects are available at 
+<a href="https://andronasef.github.io">Here !!!</a>
 </div>
-<br>
-- 👨‍💻 All of my projects are available at [andronasef.github.io](https://andronasef.github.io/)
 
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px align='center'></h2>
@@ -48,3 +49,23 @@
 
 
 
+
+Hello < Developers/ >!  andronasef
+Hi! My name is Andrew Nasef. Thank You for taking the time to view my GitHub Profile :smile:
+
+- 👨‍💻 All of my projects are available at Here !!!
+About Me 
+Github
+🔭 I’m currently working on Mutiple Awesome Apps
+
+🌱 I’m currently learning Flutter, Vue and Some Amazing Stuff
+
+👯 I’m looking to collaborate on
+
+💬 Talk to me about
+
+My Skills 
+           
+My GitHub Stats 
+
+Markdown 4210 bytes 253 words 50 lines Ln 49, Col 0HTML 299 characters 69 words 11 paragraphs
