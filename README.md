@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Andrew Nasef From EG</h1>
-<h3 align="center">A passionate about have a better world</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andronasef&label=Profile%20views&color=0e75b6&style=flat" alt="andronasef" /> </p>
+<h1 align="center">Hi 👋, I'm Andrew Nasef From EG</h1>
+<p align="left"> <img align="right" src="https://komarev.com/ghpvc/?username=andronasef&label=Profile%20views&color=0e75b6&style=flat" alt="andronasef" />A passionate about have a better world</p>
+
 
 
 - 👨‍💻 All of my projects are available at [https://andronasef.github.io/](https://andronasef.github.io/)
 
 - 📫 How to reach me **androamazing@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andronasef&show_icons=true&locale=en&layout=compact" alt="andronasef" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andronasef&show_icons=true&locale=en" alt="andronasef" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=andronasef&show_icons=true&locale=en" alt="andronasef" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
