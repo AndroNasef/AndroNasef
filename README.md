@@ -1,4 +1,4 @@
-    <div align="center">
+   <div align="center">
       <a href="https://andronasef.github.io/">
         <img
           src="https://img.shields.io/badge/Portfolio-0170FE?style=for-the-badge&logo=AngelList&logoColor=white"
